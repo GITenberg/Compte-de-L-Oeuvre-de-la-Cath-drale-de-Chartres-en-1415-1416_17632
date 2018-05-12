@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7505'
     url: http://www.gutenberg.org/2009/agents/7505
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17632#Compte-de-L-Oeuvre-de-la-Cath-drale-de-Chartres-en-1415-1416
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2006-01-29'
 gutenberg_type: Text
